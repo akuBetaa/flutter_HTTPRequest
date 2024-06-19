@@ -1,16 +1,12 @@
-# myapp
+# Tugas 2 : HTTP Request
 
-A new Flutter project.
+Mata Kuliah  : Pengenenalan Aplikasi Perangkat Bergerak
+Kelas        : 6B - 2021
+Nama         : Beta Nurul Awwalin
+NIM          : 21104410091
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tools
+- Flutter
+- API Reqres.in ( _https://reqres.in/_ )
+- idx.google
